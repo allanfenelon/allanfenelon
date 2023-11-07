@@ -26,15 +26,15 @@ Estou atualmente cursando Matemática computacional na Universidade Federal do C
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muranoban&show_icons=true&theme=dracula&locale=en&layout=compact" alt="muranoban" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanfenelon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="allanfenelon" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=muranoban&show_icons=true&theme=dracula&locale=en" alt="muranoban" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=allanfenelon&show_icons=true&theme=dracula&locale=en" alt="allanfenelon" /></p>
   </td>
  </div>
  
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/muranoban/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/allanfenelon/count.svg" /></p> 
       <br></div>
