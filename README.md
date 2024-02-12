@@ -26,7 +26,7 @@ Estou atualmente cursando Matemática computacional na Universidade Federal do C
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="[https://github-readme-stats.vercel.app/api/top-langs?username=allanfenelon&show_icons=true&theme=dracula&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=allanfenelon&show_icons=true&theme=dracula&locale=en&layout=compact)" alt="allanfenelon" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanfenelon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="allanfenelon" /></p>
   </td>
   <td width = "50%">
   <br>
