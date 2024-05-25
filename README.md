@@ -51,4 +51,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-allanpereirafenelon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanpereirafenelon)](https://www.linkedin.com/in/allanpereirafenelon/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allanfenelon.job@gmail.com)](mailto:allanfenelon.job@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-allanfenelon.job@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allanfenelon.job@gmail.com)](mailto:allanfenelon.job@gmail.com)
